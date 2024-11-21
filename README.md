@@ -51,6 +51,19 @@ Here is a list of courses and corresponding assignments included in this reposit
      - Week 2: Deep Neural Networks for Time Series
      - Week 3: Recurrent Neural Networks for Time Series
      - Week 4: Real-world time series data
+3. [**Machine Learning Specialization**](https://www.coursera.org/specializations/machine-learning-introduction)
+   - Course 1: Supervised Machine Learning Regression and Classification
+     - Week 2: Regression with multiple input variables
+     - Week 3: Classification
+   - Course 2: Advanced Learning Algorithms
+     - Week 1: Neural Networks
+     - Week 2: Neural network training
+     - Week 3: Advice for applying machine learning
+     - Week 4: Decision trees
+   - Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
+     - Week 1: Unsupervised learned
+     - Week 2: Recommenders systems
+     - Week 3: Reinforcement learning
 
 
 ## Structure
